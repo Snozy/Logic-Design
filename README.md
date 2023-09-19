@@ -4,3 +4,6 @@ More information on labs:<br />
       1) Lab1 Kevin number detector: https://hackmd.io/@IOonbQ5rSgCOR8tdpJOi5A/ByFp08ySd<br />
       2) Lab2 ALU and Carry-Lookahead Adder: https://hackmd.io/@IOonbQ5rSgCOR8tdpJOi5A/S1NQhoqIO<br />
       3) LAB 3 Pattern Matching: https://hackmd.io/@IOonbQ5rSgCOR8tdpJOi5A/S1QM3j5L_<br />
+Lab 1- 94.00 %
+Lab 2- 85.80 %
+Lab 3- 94.00 %
